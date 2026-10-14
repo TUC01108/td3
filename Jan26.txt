@@ -72,6 +72,16 @@ Day 12, Sun Oct 25, stacks and heaps: Valid Parentheses, Daily Temperatures, Kth
 Day 13, Mon Oct 26: a second full mock in CodeSignal's practice mode
 Day 14, Tue Oct 27: a light review, then rest
 Wed Oct 28: take the real test. That still leaves you 5 days before the Nov 2 deadline.
+
+so i just completed twosum which should have been piece of cake, but wasnt.
+its okay. i learned some syntax for python which is superior language to interview in.
+for i in range(len(nums))
+also 
+for i, num in enumerate(nums):
+provides a nums[i] sort of value in one line.. not always necessary.
+python is just very dynamic compared to java.
+sorry this is a bit technical but there is emotion attached to this. getting rust off the brain is liberating.
+it will be nice to see what i can do in 2 weeks of prep. lets see if best time to buy and sell stock and move zeroes give me similar challenge.
 </p>
 <p>
 </p>
