@@ -3,7 +3,7 @@ public test
 <!---
  Copy and paste this for each new day and update date/activities (update month as needed)
 ###########################################
-<h2>DD/01/26</h2>
+<h2>DD/10/26</h2>
 ================================================================================================
 <h3>Evening:</h3>
 <p>
@@ -52,6 +52,26 @@ Built 2 week training schedule through BOT. Thanks E.
 Now just go through the motions to actually understand the solutions. Not just getting there.
 Is this a start? Obviiously.. but is it?
 
+
+Week 1: speed on the basics
+
+Day 1, Wed Oct 14, arrays: Two Sum, Best Time to Buy and Sell Stock, Move Zeroes
+Day 2, Thu Oct 15, strings: Valid Anagram, Longest Common Prefix, Reverse Words in a String
+Day 3, Fri Oct 16, hash maps: Group Anagrams, Top K Frequent Elements, Contains Duplicate II
+Day 4, Sat Oct 17, two pointers: Valid Palindrome, 3Sum, Container With Most Water
+Day 5, Sun Oct 18, sliding window: Longest Substring Without Repeating Characters, Minimum Size Subarray Sum
+Day 6, Mon Oct 19, matrices: Rotate Image, Spiral Matrix, Set Matrix Zeroes
+Day 7, Tue Oct 20: a full mock, 4 problems in 70 minutes, then redo whatever you missed
+Week 2: the harder questions 3 and 4
+
+Day 8, Wed Oct 21, sorting and intervals: Merge Intervals, Insert Interval, Meeting Rooms
+Day 9, Thu Oct 22, simulation: Game of Life, Text Justification
+Day 10, Fri Oct 23, grids and BFS: Number of Islands, Rotting Oranges
+Day 11, Sat Oct 24, prefix sums and binary search: Subarray Sum Equals K, Search in Rotated Sorted Array
+Day 12, Sun Oct 25, stacks and heaps: Valid Parentheses, Daily Temperatures, Kth Largest Element
+Day 13, Mon Oct 26: a second full mock in CodeSignal's practice mode
+Day 14, Tue Oct 27: a light review, then rest
+Wed Oct 28: take the real test. That still leaves you 5 days before the Nov 2 deadline.
 </p>
 <p>
 </p>
