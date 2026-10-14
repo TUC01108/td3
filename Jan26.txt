@@ -27,6 +27,38 @@ public test
 ###########################################
 -->
 ###########################################
+<h2>14/10/26</h2>
+================================================================================================
+<h3>Evening:</h3>
+<p>
+</p>
+<p>
+</p>
+================================================================================================
+<h3>Afternoon:</h3>
+<p> 
+</p>
+<p>
+</p>
+================================================================================================
+<h3>Morning:</h3>
+<p>
+We can be better, so here we are. Showing up. That's what they say right. Just show up.
+We can prepare. We can learn. We can optimize. We can build. So we find our path and make it work.
+I received codesignal style job interview for a position. I've received assessments here and there in the last year.
+This one feels different. I dont know if it can land somewhere close by. But that isnt a deal breaker for me.
+I am hungry. Let's eat.
+Built 2 week training schedule through BOT. Thanks E.
+Now just go through the motions to actually understand the solutions. Not just getting there.
+Is this a start? Obviiously.. but is it?
+
+</p>
+<p>
+</p>
+<p>
+</p>
+###########################################
+###########################################
 <h2>15/03/26</h2>
 ================================================================================================
 <h3>Evening:</h3>
